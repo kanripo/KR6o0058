@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:16.454142
+#+DATE: 2015-08-30 21:00:16.877922
 #+TITLE: 因緣心論頌因緣心論釋
 #+PROPERTY: CBETA_ID T32n1654
 #+PROPERTY: ID KR6o0058
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1654
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0058_T_000-0490a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0058_T_001-0490a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1654¶
+No. 1654¶
 
- 
-1因緣心論頌
-:PROPERTIES:
-:head: 因緣心論頌
-:END:
-¶
+因緣心論頌¶
 ¶
 龍猛菩薩作¶
 
@@ -31,7 +26,7 @@ No.1654¶
 <pb:KR6o0058_T_001-0490b>¶
 　初八九煩惱
 　二及十是業¶
-　餘七皆是苦
+　餘七習是苦
 　十二唯三攝¶
 　從三生於二
 　從二生於七¶
@@ -59,11 +54,7 @@ No.1654¶
 ¶
 ¶
 
-2因緣心論釋
-:PROPERTIES:
-:head: 因緣心論釋
-:END:
-¶
+因緣心論釋¶
 ¶
 龍猛菩薩造¶
 
